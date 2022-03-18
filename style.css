@@ -8,6 +8,10 @@ body {
 	width: 80px;
 }
 
+h1 {
+	font-weight: 100px;
+}
+
 #container {
 	display: flex;
 	align-items: center;
